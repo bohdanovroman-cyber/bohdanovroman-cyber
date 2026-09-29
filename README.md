@@ -1,16 +1,20 @@
-## Привіт я Роман 👋
+# Привіт, я Роман! 👋
 
-<!--
-**bohdanovroman-cyber/bohdanovroman-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент факультету комп'ютерних наук / IT. Вивчаю вебтехнології, програмування та розробку програмного забезпечення.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Про мене:
+- 💻 **Основні напрямки:** C++, C#, Web Development (HTML/CSS/JS, React, Node.js)
+- 🎓 **Навчання:** Виконую лабораторні та практичні роботи з вебтехнологій та об'єктно-орієнтованого програмування
+- 🎨 **Дизайн та інструменти:** Figma, Adobe Illustrator, Git, VS Code, Linux (Ubuntu)
+
+---
+
+### 🛠️ Технології та інструменти:
+`C++` | `C#` | `HTML5` | `CSS3` | `JavaScript` | `React` | `Git` | `Figma`
+
+---
+
+### 📫 Як зі мною зв'язатися:
+- **GitHub:** [bohdanovroman-cyber](https://github.com/bohdanovroman-cyber)
